@@ -9,7 +9,7 @@ To participate in the communal payouts, please take the following steps:
 1. **Fork this repository.**
 2. **Add your validator address** to the appropriate file:
    - For Polkadot validators, add your address to `polkadot_payees.txt`.
-   - For Kusama validators, add your address to `Payees.txt`.
+   - For Kusama validators, add your address to `kusama_payees.txt`.
 3. **Submit a pull request** with your changes. Our team will review and merge it to include your validator in the next payout cycle.
 
 ## Background and Funding
